@@ -2,7 +2,7 @@
 //1. Create a class for Breakfast. Breakfast will have a constructor with a food and a drink.
 class Breakfast{
   constructor(food, drink) {
-    this.food = food,
+    this.food = food;
     this.drink = drink
   }
 };
